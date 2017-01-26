@@ -14,7 +14,7 @@ Zakoduj proszę widget dostępny w załączniku i udostępnij go na githubie lub
 ##Wymagania i sugestie:
 * Jeśli chodzi o format to prerefujemy ES6, Sass
 * Widget powinien działać pod najnowszymi przeglądarkami IE, Edge, Chrome, Firefox czy Safari
-* Widget powinien być klikalny, ale oczywiście Twoje zadanie nie polega na stworzeniu działającego playera;) (cdn)
+* Widget powinien być klikalny, ale oczywiście Twoje zadanie nie polega na stworzeniu działającego playera;)
  * Po kliknięciu przycisk Play powinien zmieniać się w przycisk Pause
  * Po kliknięciu przycisku "Hamburger" użytkownik powinien zobaczyć listę utworów
  * Po kliknięciu przycisku powrotu na liście utworów użytkownik powienien powrócić do widoku playera
