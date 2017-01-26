@@ -8,7 +8,7 @@ Zakoduj proszę widget dostępny w załączniku i udostępnij go na githubie lub
 
 ##Link do PSD -> <a href="https://dribbble.com/shots/1391899-Music-Player/attachments/201376">Widget PSD</a>
 
-![Widget Screen](https://github.com/brainhubeu/frontend-developer-recruitment-task/blob/master/widget-screen-interview.png "Widget Screen")
+![Widget Screen](https://github.com/brainhubeu/frontend-developer-recruitment-task/img/blob/master/widget-screen-interview.png "Widget Screen")
 
 
 ##Wymagania i sugestie:
