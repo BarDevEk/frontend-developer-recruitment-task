@@ -12,7 +12,7 @@ Zakoduj proszę widget dostępny w załączniku i udostępnij go na githubie lub
 
 
 ##Wymagania i sugestie:
-* Prerefujemy ES6, Sass
+* Prerefujemy ES6 i Sass
 * Widget powinien działać pod najnowszymi przeglądarkami IE, Edge, Chrome, Firefox i Safari.
 * Widget powinien być klikalny, ale oczywiście Twoje zadanie nie polega na stworzeniu działającego playera;)
  * Po kliknięciu przycisk Play powinien zmieniać się w przycisk Pause.
