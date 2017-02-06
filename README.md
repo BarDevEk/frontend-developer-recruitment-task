@@ -6,7 +6,7 @@
 Super, że zainteresowałeś się pracą w Brainhub! Mamy dla Ciebie małe zadanie, które jest pierwszym etapem rekrutacji do naszej firmy. 
 Zakoduj proszę widget dostępny w załączniku i udostępnij go na githubie lub stwórz na <a href="http://codepen.io/pen/">Codepen</a>. Następnie prześlij nam link do gotowego zadania. Widżet został stworzony przez <a href="https://dribbble.com/OliaGozha">Olia Gozha</a>. 
 
-##Link do PSD -> <a href="https://dribbble.com/shots/1391899-Music-Player/attachments/201376">Widget PSD</a>
+##Link do PSD -> <a href="https://github.com/brainhubeu/frontend-developer-recruitment-task/blob/master/img/Player.zip">Widget PSD</a>
 
 ![Widget Screen](https://github.com/brainhubeu/frontend-developer-recruitment-task/blob/master/img/widget-screen-intreview.png "Widget Screen")
 
