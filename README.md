@@ -1,6 +1,7 @@
 ## frontend-developer-recruitment-task
 
-##Zadanie rekrutacyjne dla Front-end Developer'a @Brainhub
+## Zadanie rekrutacyjne dla Front-end Developer'a @Brainhub
+
 **Cześć!** 
 
 Super, że zainteresowałeś się pracą w Brainhub! Mamy dla Ciebie małe zadanie, które jest pierwszym etapem rekrutacji do naszej firmy. 
@@ -11,7 +12,7 @@ Zakoduj proszę widget dostępny w załączniku i udostępnij go na githubie lub
 ![Widget Screen](https://github.com/brainhubeu/frontend-developer-recruitment-task/blob/master/img/widget-screen-intreview.png "Widget Screen")
 
 
-##Wymagania i sugestie:
+## Wymagania i sugestie:
 * Prerefujemy ES6 i Sass
 * Widget powinien działać pod najnowszymi przeglądarkami IE, Edge, Chrome, Firefox i Safari.
 * Widget powinien być klikalny, ale oczywiście Twoje zadanie nie polega na stworzeniu działającego playera;)
@@ -25,5 +26,5 @@ Zakoduj proszę widget dostępny w załączniku i udostępnij go na githubie lub
 
 Powodzenia!
 
-###PS.
+### PS.
 Twoja praca nie zostanie wykorzystana w żaden komercyjny sposób. Ma ona na celu jedynie sprawdzenie Twoich umiejętności w pierwszym etapie rekrutacji. 
